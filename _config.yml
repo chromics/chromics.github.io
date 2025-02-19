@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "chromics / about"
+title                    : "Chromics / About"
 title_separator          : "-"
-name                     : &name "chromics"
+name                     : &name "Chromics"
 description              : &description "personal description"
 url                      : https://chromics.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,7 +23,7 @@ repository               : "chromics/chromics.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "chromics"
+  name             : "Chromics"
   pronouns         : # example: "she/her"  
   bio              : "it's me!"
   location         : # insert ig
